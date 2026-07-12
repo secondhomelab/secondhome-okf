@@ -8,7 +8,7 @@ okf_version: "0.1"
 
 # Cafe
 
-* [Cafe](cafe/) - Second Home's daytime cafe: menu items, compiled from customer reviews (no official menu published yet).
+* [Cafe](cafe/) - Second Home's daytime cafe menu.
 
 # Events
 

@@ -11,7 +11,7 @@ A monthly DJ freestyle event at [Second Home](/about.md), organized under the [G
 
 * Day: Sunday
 
-A date was seen on Meetup for Sunday, July 12, 2026, 21:00. *Illustrative example only — check [Global Friends on Meetup](https://www.meetup.com/global-friends/events/) for the current date.*
+Example: Sunday, July 12, 2026, 21:00. *Check [Global Friends on Meetup](https://www.meetup.com/global-friends/events/) for the current date.*
 
 # Citations
 

@@ -18,7 +18,7 @@ This Wednesday slot rotates through different themed nights rather than always r
 
 * K-Pop Night (seen Wednesday, July 8, 2026)
 
-*Illustrative example only — check [Global Friends on Meetup](https://www.meetup.com/global-friends/events/) for the current lineup.*
+*Check [Global Friends on Meetup](https://www.meetup.com/global-friends/events/) for the current lineup.*
 
 # Citations
 

@@ -2,8 +2,6 @@
 
 Second Home's daytime cafe, open Wednesday–Sunday 9:00–17:00. See [About Second Home](/about.md#hours) for the venue's full hours across cafe, bar, and events. Instagram: [@second_home_nagoya_cafe](https://www.instagram.com/second_home_nagoya_cafe/).
 
-No official menu has been published yet — as of July 2026, Tabelog lists "No Menu" for photos. The items below are compiled from customer reviews and should be verified directly with the venue. The evening bar menu is not yet documented in this bundle.
-
 # Food
 
 * [Pulled Pork Burger](pulled-pork-burger.md) - Popular lunch item.

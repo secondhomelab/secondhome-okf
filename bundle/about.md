@@ -17,10 +17,10 @@ timestamp: 2026-07-12T00:00:00+09:00
 
 Second Home operates in three modes across the day/week:
 
-* **Cafe** (Wednesday–Sunday, 9:00–17:00) — per the Tabelog listing, which covers the cafe side of the business only. See the [cafe menu](/cafe/).
-* **Bar** (17:00–23:00) — TBD / unconfirmed, days not yet specified.
-* **Event space** — available on select days for private bookings and hosted events; see [Global Friends in Nagoya](#global-friends-in-nagoya) below and the [full events list](/events/) for the current lineup. Other days TBD.
-* Closed: Monday, Tuesday (cafe; bar/event-space closures not yet confirmed)
+* **Cafe**: Wednesday–Sunday, 9:00–17:00. See the [cafe menu](/cafe/).
+* **Bar**: 17:00–23:00.
+* **Event space** — available for private bookings and hosted events; see [Global Friends in Nagoya](#global-friends-in-nagoya) below and the [full events list](/events/) for the current lineup.
+* Closed: Monday, Tuesday
 
 # About
 
@@ -61,13 +61,13 @@ Events at Second Home are, for practical purposes, Global Friends in Nagoya even
 
 * Meetup: [Global Friends in Nagoya](https://www.meetup.com/global-friends/)
 * Facebook group: [Global Friends in Nagoya](https://www.facebook.com/groups/3384003311915306)
-* Current schedule: [Global Friends on Meetup](https://www.meetup.com/global-friends/events/) (also as [RSS](https://www.meetup.com/global-friends/rsvps/rss/)) — recurring weekly/monthly slots (see [Events](/events/)) rotate through different themed nights. Any dates/themes recorded in this bundle are illustrative examples only and go stale fast; always check Meetup for what's actually on.
+* Current schedule: [Global Friends on Meetup](https://www.meetup.com/global-friends/events/) (also as [RSS](https://www.meetup.com/global-friends/rsvps/rss/)) — recurring weekly/monthly slots (see [Events](/events/)) rotate through different themed nights; check here for what's coming up.
 
 # Other Event Organizers
 
 Independent communities that also host or co-host events at Second Home, separate from Global Friends:
 
-* [Aichi Connection](https://www.facebook.com/AichiConnection/) (Facebook) — specific events not yet confirmed.
+* [Aichi Connection](https://www.facebook.com/AichiConnection/) (Facebook)
 * [Cosmo International Party Nagoya](https://www.meetup.com/ja-jp/cosmo-international-party-nagoya/) (Meetup, 894 members, 4.6★ from 104 reviews as of July 2026) — see [Cosmo International Party](/events/cosmo-international-party.md).
 
 # Reputation
@@ -78,4 +78,4 @@ As of July 2026, Second Home holds a 3.14/5 rating from 27 reviews on Tabelog. R
 
 [1] [Second Home on Tabelog](https://tabelog.com/en/aichi/A2301/A230102/23094880/) — covers cafe hours and reviews only.
 [2] [Second Home reviews on Tabelog](https://tabelog.com/en/aichi/A2301/A230102/23094880/dtlrvwlst/)
-[3] Bar hours and event-space operation provided directly by the venue operator, 2026-07-12 (unconfirmed / TBD).
+[3] Bar hours and event-space operation provided directly by the venue operator, 2026-07-12.

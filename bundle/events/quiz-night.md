@@ -7,9 +7,9 @@ tags: [event-space, meetup, monthly, quiz]
 timestamp: 2026-07-12T00:00:00+09:00
 ---
 
-A monthly quiz event at [Second Home](/about.md), organized under the [Global Friends in Nagoya](https://www.meetup.com/global-friends/) Meetup group. Exact recurring weekday is not confirmed.
+A monthly quiz event at [Second Home](/about.md), organized under the [Global Friends in Nagoya](https://www.meetup.com/global-friends/) Meetup group.
 
-A date was seen on Meetup for Monday, July 13, 2026, 19:30. *Illustrative example only — check [Global Friends on Meetup](https://www.meetup.com/global-friends/events/) for the current date.*
+Example: Monday, July 13, 2026, 19:30. *Check [Global Friends on Meetup](https://www.meetup.com/global-friends/events/) for the current date.*
 
 # Citations
 

@@ -18,7 +18,7 @@ This Saturday slot rotates through different themed nights rather than always ru
 
 * Burger Party (seen Saturday, July 11, 2026)
 
-*Illustrative example only — check [Global Friends on Meetup](https://www.meetup.com/global-friends/events/) for the current lineup.*
+*Check [Global Friends on Meetup](https://www.meetup.com/global-friends/events/) for the current lineup.*
 
 # About the group
 

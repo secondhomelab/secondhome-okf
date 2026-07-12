@@ -11,13 +11,13 @@ A recurring party hosted at [Second Home](/about.md) by the external Meetup grou
 
 # Schedule
 
-Typically held Friday and Sunday evenings; exact dates are posted on Meetup. Dates seen on Meetup as of July 2026 (illustrative examples only, not a fixed schedule):
+Typically held Friday and Sunday evenings. Example dates from Meetup (July 2026):
 
 * Sunday, July 12, 2026 — 18:00–21:00
 * Friday, July 17, 2026 — 19:00–22:00
 * Sunday, July 26, 2026 — 18:00–21:00
 
-*Illustrative example only — check [Cosmo International Party Nagoya on Meetup](https://www.meetup.com/ja-jp/cosmo-international-party-nagoya/events/) for the current schedule.*
+*Check [Cosmo International Party Nagoya on Meetup](https://www.meetup.com/ja-jp/cosmo-international-party-nagoya/events/) for the current schedule.*
 
 # Entry
 
