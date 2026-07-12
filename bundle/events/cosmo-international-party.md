@@ -1,7 +1,7 @@
 ---
 type: Event
 title: Cosmo International Party
-description: Recurring international party hosted at Second Home by the Cosmo International Party Nagoya Meetup group, typically Friday and Sunday evenings.
+description: Recurring international party hosted at Second Home by the Cosmo International Party Nagoya Meetup group — Sundays, and Fridays every two weeks.
 resource: https://www.meetup.com/ja-jp/cosmo-international-party-nagoya/
 tags: [event-space, party, meetup, recurring, international]
 timestamp: 2026-07-12T00:00:00+09:00
@@ -11,7 +11,7 @@ A recurring party hosted at [Second Home](/about.md) by the external Meetup grou
 
 # Schedule
 
-Typically held Friday and Sunday evenings. Example dates from Meetup (July 2026):
+Sundays, and Fridays every two weeks (biweekly). On the alternate Fridays, [Friday Night Meetup](friday-night-meetup.md) runs instead. Example dates from Meetup (July 2026):
 
 * Sunday, July 12, 2026 — 18:00–21:00
 * Friday, July 17, 2026 — 19:00–22:00
@@ -24,7 +24,7 @@ Typically held Friday and Sunday evenings. Example dates from Meetup (July 2026)
 * Women: ¥1,000 (includes one drink)
 * Men: ¥2,000 (includes one drink)
 * Students: ¥500 discount with valid ID
-* Additional drinks: ¥600+ (cash)
+* Additional drinks (¥600+) are paid at the bar, using Second Home's usual payment methods (cash or credit card)
 * Non-smoking; free dress code
 
 # About the group

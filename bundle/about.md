@@ -37,6 +37,7 @@ Second Home is a basement-level venue entered through a door disguised as a pain
 
 * Counter seating in a stylish, relaxing space
 * Private rooms available; private use / venue rental available
+* Free WiFi
 * Non-smoking
 * Family-friendly and solo-diner friendly
 
@@ -46,7 +47,7 @@ Second Home is a basement-level venue entered through a door disguised as a pain
 
 # Payment Methods
 
-Credit cards (Visa, Mastercard, JCB, AMEX), IC cards (Suica, Rakuten Edy, iD, QUICPay), PayPay
+Credit cards (Visa, Mastercard, JCB, AMEX), IC cards (Suica, Rakuten Edy, iD, QUICPay), and PayPay are accepted at the cafe, the bar, and all events at Second Home — including externally-organized ones like [Cosmo International Party](/events/cosmo-international-party.md), where drinks beyond the entry fee are paid at Second Home's bar.
 
 # Social Media
 
@@ -54,6 +55,7 @@ Second Home's own channels:
 
 * Instagram (cafe): [@second_home_nagoya_cafe](https://www.instagram.com/second_home_nagoya_cafe/)
 * Instagram (events): [@second_home_nagoya_events](https://www.instagram.com/second_home_nagoya_events/)
+* Tabelog (cafe): [Second Home on Tabelog](https://tabelog.com/en/aichi/A2301/A230102/23094880/)
 
 # Global Friends in Nagoya
 

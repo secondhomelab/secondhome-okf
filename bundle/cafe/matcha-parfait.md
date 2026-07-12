@@ -6,7 +6,7 @@ tags: [dessert, matcha]
 timestamp: 2026-07-12T00:00:00+09:00
 ---
 
-A dessert at [Second Home](/about.md). Frequently ordered alongside the [Pulled Pork Burger](pulled-pork-burger.md) at lunch.
+A dessert at [Second Home](/about.md), praised by reviewers for its "rich flavor." Frequently ordered alongside the [Pulled Pork Burger](pulled-pork-burger.md) at lunch, often with iced coffee.
 
 # Citations
 
