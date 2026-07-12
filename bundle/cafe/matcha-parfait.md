@@ -6,7 +6,7 @@ tags: [dessert, matcha]
 timestamp: 2026-07-12T00:00:00+09:00
 ---
 
-A dessert at [Second Home](/about.md). One reviewer paired it with iced coffee for a combined total of about ¥1,600, praising its "rich flavor." Frequently ordered alongside the [Pulled Pork Burger](pulled-pork-burger.md) at lunch.
+A dessert at [Second Home](/about.md). Frequently ordered alongside the [Pulled Pork Burger](pulled-pork-burger.md) at lunch.
 
 # Citations
 
