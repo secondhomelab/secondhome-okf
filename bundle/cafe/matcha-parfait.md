@@ -1,7 +1,7 @@
 ---
 type: Menu Item
 title: Matcha Parfait
-description: Matcha dessert praised for rich flavor; often ordered with iced coffee for about ¥1,600 combined.
+description: Matcha dessert praised for rich flavor.
 tags: [dessert, matcha]
 timestamp: 2026-07-12T00:00:00+09:00
 ---
